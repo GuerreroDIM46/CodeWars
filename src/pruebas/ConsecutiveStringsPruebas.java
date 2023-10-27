@@ -1,4 +1,4 @@
-package pruebas;
+ package pruebas;
 
 public class ConsecutiveStringsPruebas {
 
